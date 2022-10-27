@@ -15,6 +15,6 @@ Também é preciso mostrar os livros cadastrados (apenas dentro da sessão ativa
 * Possibilitar o acesso apenas se dentro da sessão ativa. 
 <br>
 <br>
-<h2>Meu projeto</h2>
+<h2>Meu projeto 📚📖 </h2>
 * Sistema de cadastro de livros
 * Banco de uma "livraria", com relação dos funcionários (usuários do sistema) e de livros. 
