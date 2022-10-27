@@ -16,5 +16,5 @@ Também é preciso mostrar os livros cadastrados (apenas dentro da sessão ativa
 <br>
 <br>
 <h2>Meu projeto 📚📖 </h2>
-* Sistema de cadastro de livros
+* Sistema de cadastro de livros  <br>
 * Banco de uma "livraria", com relação dos funcionários (usuários do sistema) e de livros. 
